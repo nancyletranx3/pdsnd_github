@@ -5,10 +5,12 @@ March 30, 2020
 Explore Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is about Bikeshare data in New York, Chicago, and Washington.
 
 ### Files used
-Include the files used
+Explore_bikeshare_data.pdf
+Explore_bikeshare_data.slides.html
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This data is from this link:
+https://www.motivateco.com/
