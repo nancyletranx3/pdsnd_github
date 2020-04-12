@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+March 30, 2020
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is about Bikeshare data in New York, Chicago, and Washington.
+Unfortunately, I was unable to download my project from a jupiter notebook because it gave me an error.
 
 ### Files used
-Include the files used
+Explore_bikeshare_data.pdf
+Explore_bikeshare_data.slides.html
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This data is from these link:
+https://www.motivateco.com/
+https://www.divvybikes.com/system-data
+https://www.citibikenyc.com/system-data
+https://www.capitalbikeshare.com/system-data
