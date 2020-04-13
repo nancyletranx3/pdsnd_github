@@ -2,15 +2,14 @@
 March 30, 2020
 
 ### Project Title
-Explore Bikeshare Data
+Explore Bikeshare Data with R
 
 ### Description
 This project is about Bikeshare data in New York, Chicago, and Washington.
-Unfortunately, I was unable to download my project from a jupiter notebook because it gave me an error.
 
 ### Files used
 Explore_bikeshare_data.pdf
-Explore_bikeshare_data.slides.html
+Explore_bikeshare_data.ipynb
 
 ### Credits
 This data is from these link:
